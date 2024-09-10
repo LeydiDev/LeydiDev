@@ -1,16 +1,16 @@
-## Hi there 👋
+¡Hola! Soy Leydi 😁
+¡Bienvenido a mi perfil de GitHub! Soy una persona creativa ✒️, organizada y orientada a los resultados. Me enorgullece mi capacidad para trabajar en equipo y colaborar estrechamente con mis clientes para garantizar su satisfacción en cada etapa del proyecto.
 
-<!--
-**LeydiDev/LeydiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚒️ Lenguajes y herramientas:
+GitHub
+Figma
+React
+Tailwind CSS
+CSS3
+JavaScript
+🚀 Sobre mí
+Soy apasionada por el desarrollo de soluciones innovadoras que resuelvan problemas reales. Mi objetivo es seguir aprendiendo y creciendo en el ámbito de la tecnología, contribuyendo a proyectos que marquen una diferencia positiva.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto
+Correo electrónico: leydi.madrid6@gmail.com
+LinkedIn: www.linkedin.com/in/leydimadrid
