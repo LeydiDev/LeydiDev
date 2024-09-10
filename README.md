@@ -8,6 +8,7 @@ React
 Tailwind CSS
 CSS3
 JavaScript
+
 🚀 Sobre mí
 Soy apasionada por el desarrollo de soluciones innovadoras que resuelvan problemas reales. Mi objetivo es seguir aprendiendo y creciendo en el ámbito de la tecnología, contribuyendo a proyectos que marquen una diferencia positiva.
 
